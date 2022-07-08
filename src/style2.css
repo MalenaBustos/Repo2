@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&family=Open+Sans:ital,wght@0,400;0,500;1,300&display=swap');
+
+/*===============================================nav*/
+.bg-pink{
+	background-color: rgba(251, 193, 243, 0.8);
+}
+
+
+/*===========================================texto*/
+
+span{
+	color: #F2294C;
+}
+/*============================================maps*/
+
+.main_div2_maps{
+	display: flex;
+	justify-content: center;
+	padding:20px 20px;
+}
+
+/*============================================pie*/
+.footer_div1{
+	grid-area: "pie";
+	background-color: pink;
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+.footer__img{
+	display: flex;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	justify-content: flex-end;
+}
+
+/*=======================================autor*/
+
+.div2_p{
+	background-color:#E1C9DE;
+	color: black;
+}
+
+
